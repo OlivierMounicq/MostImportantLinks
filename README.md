@@ -18,3 +18,8 @@
 [Spurious correlation](https://www.tylervigen.com/spurious-correlations)  
 [Cours de statistiques de Thiery Ancelle](https://www.youtube.com/c/ThierryAncelle)  
 [World Excel business issues](http://www.eusprig.org/horror-stories.htm)  
+[Vol AF 447 Rio-Paris, reconstitution des minutes qui ont précédé le crash](https://www.vanityfair.fr/actualites/articles/vol-af-447-rio-paris-reconstitution-des-minutes-qui-ont-precede-le-crash/23618)  
+[The Broken Algorithm That Poisoned American Transportation](https://www.vice.com/en/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)  
+[The Highway Was Supposed to Save This City. Can Tearing It Down Fix the Sins of the Past?](https://jalopnik.com/the-highway-was-supposed-to-save-this-city-can-tearing-1836529628)  
+[Paradoxe de Braess](https://fr.wikipedia.org/wiki/Paradoxe_de_Braess)  
+[Quand les voitures s’évaporent](https://www.lemonde.fr/blog/transports/2016/08/23/voitures-evaporees/)
